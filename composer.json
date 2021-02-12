@@ -6,7 +6,7 @@
             "email": "poropo97@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "dev"
     "require": {
       "php": ">=7.4"
 
