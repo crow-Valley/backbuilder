@@ -15,5 +15,17 @@
             "psr-4": {
                 "cvalley\\backbuilder\\": "src/"
             }
-        }
+    },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    },
+    "laravel": {
+      "providers": [
+        "cvalley\\backbuilder\\backOfficeServiceProvider"
+      ],
+      "aliases": {
+        "backbuilder": "cvalley\\backbuilder"
+      }
+    }
 }
