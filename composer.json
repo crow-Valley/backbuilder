@@ -1,0 +1,15 @@
+{
+    "name": "cvalley/backbuilder",
+    "authors": [
+        {
+            "name": "poropo97",
+            "email": "poropo97@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+            "psr-4": {
+                "cvalley\\backbuilder\\": "src/"
+            }
+        }
+}
